@@ -14,6 +14,10 @@
           <option name="url" value="git@gitlab.com:CharlyZest/MegaLobby.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NekoCodersUnited/JavaCoding" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Charly Brown\IdeaProjects" />
