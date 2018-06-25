@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.bukkit.configuration.MemoryConfiguration.addDefaults(defaults)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
